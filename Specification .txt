@@ -1,0 +1,13 @@
+The Vending Machine application is a console-based Python program that simulates a real vending machine. It includes the following features:
+
+*A menu displaying a selection of drinks and snacks, each with a unique item code.
+
+*Input system for users to select an item using its code.
+
+*A payment system where users insert any amount and receive correct change.
+
+*Messages confirming the selected item, dispensing status, and returned change.
+
+*A stock system that prevents purchase of out-of-stock items.
+
+*A loop allowing users to make multiple purchases.
